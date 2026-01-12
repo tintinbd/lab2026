@@ -26,10 +26,10 @@ You will need to create a Github repository which will contain python applicatio
 
 ## Rating
 
-- **-1:** Failed to deliver the work.
-- **0:** Has severe issue with implementation.
-- **1:** Met some of the criteria, has moderate issue with implementation.
+- **-1** Failed to deliver any work.
+- **0:** Has severe issue with current implementation.
+- **1:** Met some of the criteria, has moderate issue with the implementation.
 - **2:** Met most of the criteria, has neglible issue.
 - **3:** Met all criteria.
 - **4:** Met all criteria and demonstated higher skills.
-- **5:** Met all criteria and demonstrated above and beyond skills.
+- **5:** Met all criteria and demonsrated skills that exceeded expectation.
